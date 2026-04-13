@@ -113,12 +113,6 @@ python benchmarks/exec_meta_adapt/frontier_local/run_frontier_local.py --models 
 
 This repository is about metacognitive benchmarking under hidden-state uncertainty.
 
-It is not claiming:
-- AGI
-- general intelligence
-- consciousness
-- broad world-model competence
-
 It does claim:
 - a reusable benchmark for `COMMIT` vs `ABSTAIN` vs `ESCALATE`
 - open-weight baseline comparisons

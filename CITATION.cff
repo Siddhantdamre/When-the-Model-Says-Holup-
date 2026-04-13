@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite the repository and link the released benchmark materials."
+title: "When the Model Says Holup"
+type: software
+authors:
+  - family-names: "Damre"
+    given-names: "Siddhant"
+repository-code: "https://github.com/Siddhantdamre/When-the-Model-Says-Holup-"
+license: "MIT"
+abstract: "A benchmark for metacognitive reasoning under partial observability that evaluates whether models correctly distinguish commit, abstain, and escalate under hidden-state uncertainty."
+keywords:
+  - metacognition
+  - benchmark
+  - abstention
+  - escalation
+  - uncertainty
+  - llm-evaluation

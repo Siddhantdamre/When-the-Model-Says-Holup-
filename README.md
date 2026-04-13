@@ -123,3 +123,31 @@ It does claim:
 - a reusable benchmark for `COMMIT` vs `ABSTAIN` vs `ESCALATE`
 - open-weight baseline comparisons
 - evidence that models can be safe-looking while still metacognitively miscalibrated
+
+---
+
+## Submission Form
+
+The strongest submission form for this project is:
+
+1. **Primary benchmark notebook**: a Kaggle notebook or equivalent public notebook that runs the benchmark story end to end
+2. **Linked GitHub repository**: this repo, containing the frozen task set, runner, scoring, figures, and result artifacts
+3. **Short writeup or abstract**: the benchmark claim, task taxonomy, metrics, main table, figure, limitations, and reproduction commands
+
+For this repository, the submission-facing assets are already bundled under:
+- `docs/releases/`
+- `notebooks/`
+- `submission/`
+
+See `SUBMISSION.md` for a concise checklist.
+
+---
+
+## Contributing
+
+Contributions are welcome, but the benchmark contract should remain stable unless there is a factual bug.
+
+Please read:
+- `CONTRIBUTING.md`
+- `CODE_OF_CONDUCT.md`
+- `CITATION.cff`
